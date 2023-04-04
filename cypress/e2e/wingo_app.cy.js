@@ -1,8 +1,8 @@
 describe('Wingo app', () => {
-  /*it('La pagina de la aplicación puede ser abierta', () => {
+  it('La pagina de la aplicación puede ser abierta', () => {
     cy.visit('https://www.wingo.com/')
     cy.contains('Wingo')
-  })*/
+  })
 
   it('Es posible buscar un vuelo de ida y vuelta',()=>{
     //given
