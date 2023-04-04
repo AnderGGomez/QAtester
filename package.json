@@ -1,0 +1,15 @@
+{
+  "name": "wingoe2e",
+  "version": "1.0.0",
+  "description": "Prueba 2e2 para la pagina wingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Anderson Gomez Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
